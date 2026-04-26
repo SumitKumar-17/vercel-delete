@@ -1,0 +1,19 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@inquirer/checkbox": "^5.1.4",
+    "@inquirer/confirm": "^6.0.12",
+    "chalk": "^5.6.2",
+    "express": "^5.2.1",
+    "node-fetch": "^2.7.0"
+  }
+}
