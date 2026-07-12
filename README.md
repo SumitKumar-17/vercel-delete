@@ -1,6 +1,7 @@
 # vercel-delete
 
 CLI tool to bulk-delete Vercel projects interactively.
+When you have many vercel projects ,deleting it manually from UI is  painful process, also by Vercel CLI they don't allow bulk Delete stuff,so this project does that
 
 ## Setup
 
